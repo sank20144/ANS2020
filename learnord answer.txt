@@ -1,0 +1,3 @@
+Any number that results in 15 after individual addition
+
+Ex: 555, 96, 87, 663
